@@ -21,3 +21,15 @@ Integrate well with pandas, NumPy, and scikit-learn pipelines
 
 It’s maintained by the creators of Scikit-learn and is excellent for data scientists working with real-world, messy tabular data.
 
+
+
+✅ Why Use Skrub for EDA?
+📉 Automates tedious cleaning and encoding
+
+🧠 Smart handling of dirty text and categorical columns
+
+🔗 Can merge datasets even with fuzzy/non-exact keys
+
+https://www.youtube.com/@Bioinformatics_Made_Easy
+
+💼 Integrates well with ML pipelines (via Scikit-learn)
